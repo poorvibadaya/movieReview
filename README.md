@@ -3,25 +3,6 @@
 Welcome to the Full Stack Movie Review Application repository. This repository contains the code for both the backend and frontend of the application. This project was built to showcase my skills in full-stack development.
 
 
-## Project Structure
-
-### Backend
-- **src/**: Contains the source code for the backend.
-- **config/**: Configuration files for the project.
-- **models/**: Database models.
-- **controllers/**: Controllers for handling API requests.
-- **routes/**: API routes.
-- **middlewares/**: Custom middleware functions.
-- **tests/**: Test cases for the backend.
-
-### Frontend
-- **src/**: Contains the source code for the frontend.
-- **components/**: React components.
-- **services/**: Services for making HTTP requests.
-- **styles/**: CSS and styling files.
-- **hooks/**: Custom React hooks.
-- **assets/**: Static assets like images and icons.
-
 ## Running the Project
 
 ### Backend
